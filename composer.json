@@ -1,0 +1,25 @@
+{
+    "name": "spipremix/nuage",
+    "homepage": "https://contrib.spip.net/Nuage-de-mots-cles",
+    "keywords": ["spip", "navigation"],
+    "description": "Afficher les mots-clés en faisant varier la taille de la police",
+    "type": "spip-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "JamesRezo",
+            "email": "james@rezo.net"
+        },
+        {
+            "name": "Fil",
+            "email": "fil@rezo.net"
+        },
+        {
+            "name": "Booz",
+            "email": "booz@rezo.net"
+        }
+    ],
+    "require": {
+        "spipremix/bonux": "^3.4"
+    }
+}

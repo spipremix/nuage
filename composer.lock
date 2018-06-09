@@ -1,0 +1,47 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "895d3f98bb5075fc72317371a35b8a21",
+    "packages": [
+        {
+            "name": "spipremix/bonux",
+            "version": "3.4.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/spipremix/bonux.git",
+                "reference": "79928cd2622ce21bbcaa312084327254224681b1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/spipremix/bonux/zipball/79928cd2622ce21bbcaa312084327254224681b1",
+                "reference": "79928cd2622ce21bbcaa312084327254224681b1",
+                "shasum": ""
+            },
+            "type": "spip-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Cédric Morin",
+                    "email": "cedric@yterium.net"
+                }
+            ],
+            "description": "Le plugin qui lave plus SPIP que SPIP, avec des chouettes cadeaux dedans",
+            "homepage": "https://contrib.spip.net/Bonux-pour-SPIP3",
+            "time": "2018-05-27T18:41:07+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
